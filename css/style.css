@@ -44,7 +44,7 @@ body {
 
 .footer__icono {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   height: 18px;
   height: 18px;
 }
