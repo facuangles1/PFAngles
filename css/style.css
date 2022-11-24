@@ -14,10 +14,11 @@ body {
 
 .tarjeta {
   transition: all 0.3s;
+  width: 90%;
 }
 
 .tarjeta:hover {
-  transform: scale(1.1) translateY(-40px);
+  transform: scale(1.1) translateY(-10px);
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
